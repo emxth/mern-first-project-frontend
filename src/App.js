@@ -5,6 +5,7 @@ function App() {
 
   const navigate = useNavigate();
   //Added by arshvinth
+  //second line added
 
   return (
     <div className="App">
